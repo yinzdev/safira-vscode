@@ -1,16 +1,18 @@
 <p align="center">
   <img alt="Safira Logo" src="https://imgur.com/jAW4ht2.png" width="100" alt="Safira Theme Logo" />
 </p>
-<p align="center">
-  <a href="https://github.com/yinzdev/safira-vscode"><img src="https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499
-    "></a> 
+<div align="center">
+
+  [![Version](https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499)](https://marketplace.visualstudio.com/items?itemName=yinz.safira)
+
 <h1 align="center">
 Safira
 </h1>
+
 <p align="center">
 A minimalistic, stylish dark blue theme with crisp syntax.
 </p>
-</p>
+</div>
 
 <div align="center">
 <img alt="Safira Typescript" src="https://imgur.com/zLoILX9.png" />
@@ -42,7 +44,7 @@ A simple and elegant theme, featuring a dark blue UI with carefully chosen easy 
 
 Go to your `settings.json` through these steps:
 
-1. Press `Ctrl+Shift+X` on **Windows/Linux** or `Cmd+Shift+X` on **MacOS** to open the command palette
+1. Press `Ctrl+Shift+P` on **Windows/Linux** or `Cmd+Shift+P` on **MacOS** to open the command palette
 1. Search for 'Open User Settings (JSON)' and select it
 1. Add the following:
 
