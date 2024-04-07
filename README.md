@@ -64,4 +64,4 @@ Go to your `settings.json` through these steps:
 
 ## License
 
-* Released under the [MIT License](https://github.com/yinzdev/safira-vscode/) 
+* Released under the [MIT License](https://github.com/yinzdev/safira-vscode/blob/main/license.md) 
