@@ -1,0 +1,5 @@
+gemstone:
+  name: safira
+  background: &BACKGROUND "#171D25"
+  color: "#101921" # Blue
+  rarity: rare

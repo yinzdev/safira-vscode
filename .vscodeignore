@@ -1,0 +1,14 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+.gitattributes
+.gitignore
+.editorconfig
+.babelrc
+.eslintrc
+**/*.map
+demos/**
+node_modules
+yarn.lock
+vsc-extension-quickstart.md
+package-lock.json

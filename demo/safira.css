@@ -1,0 +1,17 @@
+.gemstone {
+  border: 1px solid #00000000;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.gemstone p {
+  margin: 0;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.rarity {
+  font-style: italic;
+}

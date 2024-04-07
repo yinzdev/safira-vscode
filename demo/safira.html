@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gemstone Information</title>
+  </head>
+  <body>
+    <h1>Gemstone Information</h1>
+    <div id="gemstone-info">
+      <p id="gemstone-description"></p>
+    </div>
+
+    <script>
+      const gemstone = {
+        name: 'safira',
+        color: 'blue',
+        rarity: 'rare',
+      };
+
+      const gemstoneDescription = document.getElementById(
+        'gemstone-description',
+      );
+      gemstoneDescription.textContent = `The ${gemstone.name} gemstone is a beautiful shade of ${gemstone.color} and is ${gemstone.rarity}.`;
+    </script>
+  </body>
+</html>

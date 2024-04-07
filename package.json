@@ -1,0 +1,48 @@
+{
+  "name": "safira",
+  "publisher": "yinz",
+  "author": "Rodrigo R. Cotta <yinzdev@gmail.com>",
+  "license": "MIT",
+  "displayName": "Safira Theme",
+  "description": "Minimal dark blue theme with crisp syntax",
+  "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#494949",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/yinzdev/safira-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yinzdev/safira-vscode"
+  },
+  "keywords": [
+    "safira theme",
+    "safira",
+    "sapphire",
+    "cobalt",
+    "blue",
+    "dark blue",
+    "dark ui",
+    "deep blue",
+    "shades of blue",
+    "night",
+    "contrast",
+    "yinz"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Safira Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Safira-color-theme.json"
+      }
+    ]
+  }
+}
