@@ -208,13 +208,13 @@
     "debugExceptionWidget.background": "#0D141A",
     "debugExceptionWidget.border": "#324965",
 
-    "panel.background": "#0D141A",
+    "panel.background": "#171D25",
     "panel.border": "#3e444fab",
     "panelTitle.activeBorder": "#127499",
     "panelTitle.activeForeground": "#DCDEDF",
     "panelTitle.inactiveForeground": "#969696",
 
-    "terminal.background": "#0D141A",
+    "terminal.background": "#171D25",
     "terminal.foreground": "#D2D2D2",
     "terminal.border": "#3e444fab",
     "terminalCommandDecoration.errorBackground": "#f58383",

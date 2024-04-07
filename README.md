@@ -49,7 +49,7 @@ Go to your `settings.json` through these steps:
 1. Add the following:
 
 ```
-"workbench.colorTheme": "Safira",
+"workbench.colorTheme": "Safira Dark",
 "editor.fontFamily": "JetBrains Mono",
 "editor.fontLigatures": true,
 "editor.fontSize": 14,
