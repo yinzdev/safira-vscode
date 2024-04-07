@@ -1,8 +1,14 @@
+## 0.0.6
+
+`2024-04-07`
+
+- The initial released has been successfully revised.
+
 ## 0.0.5
 
 `2024-04-07`
 
-Just a small release fixing some UI elements.
+- Just a small release fixing some UI elements.
 
 ## 0.0.4
 

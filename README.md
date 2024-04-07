@@ -17,8 +17,8 @@ A minimalistic, stylish dark blue theme with crisp syntax.
 <div align="center">
 <img alt="Safira Ruby Code" src="https://imgur.com/ZwxN0Ot.png" />
 <img alt="Safira Javascript" src="https://imgur.com/fsqfx4C.png" />
-<img alt="Safira Typescript" src="https://imgur.com/zLoILX9.png" />
 <img alt="Safira HTML Code" src="https://imgur.com/guwpzG2.png" />
+<img alt="Safira Typescript" src="https://imgur.com/zLoILX9.png" />
 </div>
 
 Font used [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
