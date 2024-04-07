@@ -1,3 +1,9 @@
+## 0.0.4 Color update
+
+`2024-04-07`
+
+The terminal color was changed to better match the rest of the theme.
+
 ## 0.0.3 Readme Update
 
 `2024-04-06`

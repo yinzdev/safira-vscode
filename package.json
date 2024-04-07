@@ -5,7 +5,7 @@
   "license": "MIT",
   "displayName": "Safira Theme",
   "description": "Minimal dark blue theme with crisp syntax",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#494949",
