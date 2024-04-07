@@ -23,19 +23,19 @@ A minimalistic, stylish dark blue theme with crisp syntax.
 
 Font used [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-> Token colors are finely adjusted for the best user experience. Syntax constrast meets the Web Content Accessibility Guidelines (WCAG 2.0) succesfully.
+> The token colors are carefully adjusted to improve user experience. Syntax contrast meets the Web Content Accessibility Guidelines (WCAG 2.0) effectively.
 
 ## More about Safira
 
 A simple and elegant theme, featuring a dark blue UI with carefully chosen easy on the eyes syntax colors that provide optimal contrast, clarity, and focus. 
 
-"Safira" is the term used to refer to the precious gemstone sapphire 💎 in my home country `Brazil`. I was thinking of a name for the theme, and this immediately came to mind when I thought about anything blue. There's no other specific association.
+"Safira" is the term used to refer to the precious gemstone sapphire 💎 in my home country `Brazil`. I was thinking of a name for the theme, and this immediately came to mind when I thought about anything blue. There's no other specific reason.
 
 ## Installation Guide
 
 1. Open the **extensions** sidebar. Alternatively, you can access it through the menu `View → Extensions`, or by pressing `Ctrl+Shift+X` **(Windows/Linux)** or `Cmd+Shift+X` **(MacOS)** to focus on the extensions view
 1. Search for `Safira Theme` by **Yinz**
-1. Click **Install**, reload VSCode if necessary
+1. Click **Install**, reload [Visual Studio Code](https://code.visualstudio.com/)
 1. Go to File > Preferences > Color Theme > **Safira Theme**
 1. Support the theme: [**Rate it**](https://marketplace.visualstudio.com/items?itemName=yinz.safira) ⭐⭐⭐⭐⭐
 1. Star the [**repository**](https://github.com/yinzdev/safira-vscode/stargazers)
@@ -58,11 +58,11 @@ Go to your `settings.json` through these steps:
 
 ## Buy me a cup of coffee
 
-* Like the theme? Support my work by [donating through PayPal](https://www.paypal.com/donate/?hosted_button_id=3A2E3C8T9X4QG) ❤
+* Enjoying the theme? Show your support by [donating via PayPal](https://www.paypal.com/donate/?hosted_button_id=3A2E3C8T9X4QG) 
 
 ## Something isn't right?
 
-* Please, report issues, bugs and suggestions for improvements [here](https://github.com/yinzdev/safira-vscode/issues)
+* Please report any issues, bugs, or suggestions for improvements [here](https://github.com/yinzdev/safira-vscode/issues)
 
 ## License
 
