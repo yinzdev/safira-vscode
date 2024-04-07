@@ -2,7 +2,7 @@
   <img alt="Safira Logo" src="https://imgur.com/jAW4ht2.png" width="100" alt="Safira Theme Logo" />
 </p>
 <p align="center">
-  <a href="https://github.com/catppuccin/vscode/stargazers"><img src="https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499
+  <a href="https://github.com/yinzdev/safira-vscode"><img src="https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499
     "></a> 
 <h1 align="center">
 Safira
