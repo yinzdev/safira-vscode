@@ -15,10 +15,10 @@ A minimalistic, stylish dark blue theme with crisp syntax.
 </div>
 
 <div align="center">
-<img alt="Safira Typescript" src="https://imgur.com/zLoILX9.png" />
-<img alt="Safira Javascript" src="https://imgur.com/gba7dNp.png" />
-<img alt="Safira HTML Code" src="https://imgur.com/guwpzG2.png" />
 <img alt="Safira Ruby Code" src="https://imgur.com/ZwxN0Ot.png" />
+<img alt="Safira Javascript" src="https://imgur.com/fsqfx4C.png" />
+<img alt="Safira Typescript" src="https://imgur.com/zLoILX9.png" />
+<img alt="Safira HTML Code" src="https://imgur.com/guwpzG2.png" />
 </div>
 
 Font used [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -29,7 +29,7 @@ Font used [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 A simple and elegant theme, featuring a dark blue UI with carefully chosen easy on the eyes syntax colors that provide optimal contrast, clarity, and focus. 
 
-"Safira" is the term used to refer to the precious gemstone sapphire 💎 in my home country `Brazil`.
+"Safira" is the term used to refer to the precious gemstone sapphire 💎 in my home country `Brazil`. I was thinking of a name for the theme, and this immediately came to mind when I thought about anything blue. There's no other specific association.
 
 ## Installation Guide
 
