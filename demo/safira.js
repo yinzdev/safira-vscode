@@ -27,5 +27,3 @@ const Safira = new Theme({
   style: ['Minimalistic', 'Modern'],
   release: 2024,
 });
-
-a;
