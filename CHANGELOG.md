@@ -1,3 +1,9 @@
+## 0.0.7
+
+`2024-04-08`
+
+- After some feedback, made the [Safira Theme](https://marketplace.visualstudio.com/items?itemName=yinz.safira) compatible with VSCode Version 1.67.0+.
+
 ## 0.0.6
 
 `2024-04-07`

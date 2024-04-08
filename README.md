@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-  [![Version](https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499)](https://marketplace.visualstudio.com/items?itemName=yinz.safira)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/yinz.safira?style=for-the-badge&labelColor=1B2838&color=127499)](https://marketplace.visualstudio.com/items?itemName=yinz.safira)
 
 <h1 align="center">
 Safira
@@ -27,13 +27,13 @@ Font used [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## More about Safira
 
-A simple and elegant theme, featuring a dark blue UI with carefully chosen easy on the eyes syntax colors that provide optimal contrast, clarity, and focus. 
+A simple and elegant theme, featuring a dark blue UI with carefully chosen easy on the eyes syntax colors that provide optimal contrast, clarity, and focus. The [Safira Theme](https://marketplace.visualstudio.com/items?itemName=yinz.safira) is compatible with VSCode 1.67.0+.
 
 "Safira" is the term used to refer to the precious gemstone sapphire 💎 in my home country `Brazil`. I was thinking of a name for the theme, and this immediately came to mind when I thought about anything blue. There's no other specific reason.
 
 ## Installation Guide
 
-1. Open the **extensions** sidebar. Alternatively, you can access it through the menu `View → Extensions`, or by pressing `Ctrl+Shift+X` **(Windows/Linux)** or `Cmd+Shift+X` **(MacOS)** to focus on the extensions view
+1. Open the **extensions** sidebar. Alternatively, you can access it through the menu `View → Extensions`, or by pressing `Ctrl+Shift+X` on **Windows/Linux** or `Cmd+Shift+X` on **MacOS** to focus on the extensions view
 1. Search for `Safira Theme` by **Yinz**
 1. Click **Install**, reload [Visual Studio Code](https://code.visualstudio.com/)
 1. Go to File > Preferences > Color Theme > **Safira Theme**
@@ -58,12 +58,12 @@ Go to your `settings.json` through these steps:
 
 ## Buy me a cup of coffee
 
-* Enjoying the theme? Show your support by [donating via PayPal](https://www.paypal.com/donate/?hosted_button_id=3A2E3C8T9X4QG) 
+- Enjoying the theme? Show your support by [donating via PayPal](https://www.paypal.com/donate/?hosted_button_id=3A2E3C8T9X4QG)
 
 ## Something isn't right?
 
-* Please report any issues, bugs, or suggestions for improvements [here](https://github.com/yinzdev/safira-vscode/issues)
+- Please report any issues, bugs, or suggestions for improvements [here](https://github.com/yinzdev/safira-vscode/issues)
 
 ## License
 
-* Released under the [MIT License](https://github.com/yinzdev/safira-vscode/blob/main/license.md) 
+- Released under the [MIT License](https://github.com/yinzdev/safira-vscode/blob/main/license.md)

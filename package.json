@@ -5,7 +5,7 @@
   "license": "MIT",
   "displayName": "Safira Theme",
   "description": "Minimal dark blue theme with crisp syntax",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#494949",
@@ -27,11 +27,22 @@
     "deep blue",
     "shades of blue",
     "night",
+    "black",
+    "teal",
+    "purple",
+    "pastel",
+    "pastel colors",
+    "minimal",
+    "minimalistic",
+    "minimalista",
+    "retro",
+    "one dark",
+    "deep",
     "contrast",
     "yinz"
   ],
   "engines": {
-    "vscode": "^1.87.0"
+    "vscode": "^1.67.0"
   },
   "categories": [
     "Themes"
