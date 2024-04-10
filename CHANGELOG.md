@@ -1,3 +1,9 @@
+## 0.0.8
+
+`2024-04-09`
+
+- Made some color saturation/vibrance adjustments for syntax and UI to align better with people's expectations. Also enabled "semanticHighlighting" by default.
+
 ## 0.0.7
 
 `2024-04-08`

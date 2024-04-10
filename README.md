@@ -53,7 +53,8 @@ Go to your `settings.json` through these steps:
 "editor.fontFamily": "JetBrains Mono",
 "editor.fontLigatures": true,
 "editor.fontSize": 14,
-"editor.lineHeight": 1.6,
+"editor.lineHeight": 1.7,
+"editor.semanticHighlighting.enabled": true
 ```
 
 ## Buy me a cup of coffee
