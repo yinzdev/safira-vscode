@@ -1,3 +1,9 @@
+## 0.0.9
+
+`2024-04-11`
+
+- Some adjustments to gitDecorations were made.
+
 ## 0.0.8
 
 `2024-04-09`
